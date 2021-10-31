@@ -1,1 +1,1 @@
-# Full-Stack-Projrct
+# Full-Stack-Project
