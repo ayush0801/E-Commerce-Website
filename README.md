@@ -8,7 +8,7 @@ online shopping system is a [DBMS project] with both admin and user layouts.
 
 2. Open XAMPP Control panel and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/ayush0801/Full-Stack-Project.git).
+3. Download project from github(https://github.com/ayush0801/E-Commerce-Website.git).
 
 4. extract files in C:\\xampp\htdocs\.
 
@@ -22,7 +22,7 @@ online shopping system is a [DBMS project] with both admin and user layouts.
 
 9. browse the file in directory [Full-Stack-Project/database/onlineshop.sql].
 
-10. open any browser and type http://localhost/Full-Stack-Project.
+10. open any browser and type http://localhost/E-Commerce-Website.
 
 11.first register and then login
 
